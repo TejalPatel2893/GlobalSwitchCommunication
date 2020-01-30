@@ -1,0 +1,2 @@
+include ':app', ':switchcommunicationlibrary'
+rootProject.name='SwitchCommunication'
